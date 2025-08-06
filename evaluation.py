@@ -116,12 +116,12 @@
 # 5.sort the string with conversion of original string into the reverse ascending order
 
 
-#problem statement
-#write a program to analyze two different paragraphs where
-#you need to do followimg task
-#1.find all unique words use in each paragraph
-#2.identify the common words between both paragraphs.
-#3.display total count of unique words in both paragraphs
+# problem statement
+# write a program to analyze two different paragraphs where
+# you need to do followimg task
+# 1.find all unique words use in each paragraph
+# 2.identify the common words between both paragraphs.
+# 3.display total count of unique words in both paragraphs
 
 #------------------------------------------------------------------------------------------------------------------
 # n=int(input("enter the value of n:"))

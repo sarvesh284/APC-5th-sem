@@ -2,6 +2,11 @@ s="hello world"
 #substring = s[start : end : step]
 print(s[4:10:1])      #positive index
 print(s[-5:-1])       #negative index
+print(s[-1:-1])
+print(s[-5:]) 
+print(s[:-5])
+
+
 
 #HERE ARE SOME IMPORTANT SRING OPERATIONS
 print(s.capitalize())#1st letter will be capital and rest of string will be remain lowercased
