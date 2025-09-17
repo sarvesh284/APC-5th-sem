@@ -1,0 +1,10 @@
+Python's standard library has a built-in property() function. 
+It returns a property object. It acts as an interface to the instance variables of a
+ Python class.
+
+The encapsulation principle of object-oriented programming requires that the instance 
+variables should have a restricted private access. Python doesn't have efficient mechanism 
+for the purpose. The property() function provides an alternative.
+
+The property() function uses the getter, setter and delete methods defined in a class to 
+define a property object for the class.
